@@ -1,0 +1,5 @@
+exo docker:
+- Installer lighthttpd (image) dans un docker file
+- Lorsque l'image démarre, le conteneur ne doit pas s'arrêter tant qu'on ne veut pas qu'elle s'arrête
+- utiliser cmd et entrypoint
+https://aws.amazon.com/fr/blogs/france/demystifier-entrypoint-et-cmd-dans-docker/
